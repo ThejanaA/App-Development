@@ -1,0 +1,66 @@
+/* Reset some default styles */
+body, ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* Center-align all text within the terms and conditions content */
+.terms-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center; /* Center-align all text */
+  /* Center-align text within the centered-content class */
+.centered-content {
+  text-align: center;
+}
+
+/* Add other CSS styles for your content here */
+
+}
+
+/* Title styles */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center; /* Center-align the title */
+}
+
+/* Paragraph styles */
+p {
+  font-size: 16px;
+  margin-bottom: 10px;
+  text-align: center; /* Center-align paragraphs */
+}
+
+/* Ordered list styles */
+.terms-list {
+  list-style-type: decimal;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  text-align: center; /* Center-align ordered lists */
+}
+
+/* List item styles */
+li {
+  font-size: 16px;
+  text-align: center; /* Center-align list items */
+}
+
+/* Sublist styles */
+.sub-list {
+  list-style-type: lower-alpha;
+  padding-left: 20px;
+  text-align: center; /* Center-align sublist */
+}
+
+/* Additional styling for the content */
+.terms-content {
+  background-color: #f9ce34;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left; /* Reset text alignment to left within the content */
+}
